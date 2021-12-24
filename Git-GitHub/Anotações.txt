@@ -1,0 +1,8 @@
+Site sobre o markdown:
+https://www.markdownguide.org/
+
+Download do Git:
+https://git-scm.com/
+
+
+
